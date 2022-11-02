@@ -1,6 +1,19 @@
 /* Styling for Ghost-specific elements
 /* ---------------------------------------------------------- */
 
+#box1 {
+  float: left;
+
+  width: 70%;
+  height: 280px;
+}
+#box2 {
+  float: right;
+
+  width: 30%;
+  height: 280px;
+}
+
 .kg-card {
   margin: 7vw 0;
 }

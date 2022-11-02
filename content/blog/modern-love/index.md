@@ -53,8 +53,11 @@ HTML/CSS and Javascript (D3.js)
 
 ##Design
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FyCVwbVxCfBdIwrzb3GIv71%2FINFO4310-Final%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCVwbVxCfBdIwrzb3GIv71%2FINFO4310-Final%3Fscaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D23%253A371%26node-id%3D23%253A840" allowfullscreen></iframe>
 
 ##Development
+
+See below for the high-fidelity prototype that we created where we used the following for creation:
+HTML/CSS and Javascript (D3.js).
 
 <button style = "color: #f85c81 !important; box-shadow: inset 0 0 0 2px #f85c81;" onclick=" window.open('https://harvest-guide-fb.herokuapp.com/','_blank')">VIEW THE VISUALIZATION</button>

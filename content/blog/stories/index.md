@@ -45,16 +45,15 @@ During this phase, I used Figma to design each of the components, pages, and int
 
 **Low-Fidelity Wireframes**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FLFCCYF4lLORnwNKkQbYoEw%2FStories-of-Solidarity-Wireframes%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLFCCYF4lLORnwNKkQbYoEw%2FStories-of-Solidarity-Wireframes%3Fscaling%3Dscale-down-width%26page-id%3D0%253A1%26node-id%3D6%253A16" allowfullscreen></iframe>
 
 **Mid-Fidelity Wireframes**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F9ohomCHcF7k09jLsJPrTWl%2FStories-of-Solidarity-Prototype%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5VR7LlcSd0foXUXx8kBDOS%2FStories-of-Solidarity_Final%3Fscaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A104%26node-id%3D1%253A104" allowfullscreen></iframe>
 
 ###Development
-For developing the final product, I used the following languages and tools: HTML, CSS, PHP, Mapbox (integrated), and Wordpress (integrated)
+For developing the high-fidelity prototype, I used the following languages and tools: HTML, CSS, PHP, Mapbox (integrated), and Wordpress (integrated)
 
-###Delivery
 You can find the high-fidelity prototype here:
 
 <a target="_blank" href= "http://159.89.179.47/"> <button class = "button_Stories"> Stories of Solidarity Website</button></a>

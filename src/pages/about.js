@@ -13,13 +13,19 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="ABout" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO title="About" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Hi Everyone{" "}
+            A little bit about me...{" "}
           </h2>
+          <figure className="kg-card kg-image-card kg-width-full ">
+            <Img
+              fluid={data.benchAccounting.childImageSharp.fluid}
+              className="kg-image"
+            />
+          </figure>
           <h3>About - Work</h3>
           I’m a UX/UI Designer based out of NYC with 2 years of professional
           experience under my belt. As a Deloitte consultant, I worked on
@@ -42,34 +48,6 @@ const AboutPage = ({ data }, location) => {
           family and friends. Check out my Instagram page for some recipes to
           try out! I also enjoy being active, some of my favorite classes to
           take are contemporary dancing and boxing classes.
-          <figure className="kg-card kg-image-card">
-            <Img
-              fluid={data.benchAccounting.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
-          </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
-          <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
-          </p>
-          <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
-          </p>
-          <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
-          </p>
         </div>
       </article>
     </Layout>
@@ -83,7 +61,7 @@ const indexQuery = graphql`
         title
       }
     }
-    benchAccounting: file(relativePath: { eq: "Profile.jpg" }) {
+    benchAccounting: file(relativePath: { eq: "IMG_2461.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 600) {
           ...GatsbyImageSharpFluid

@@ -23,7 +23,7 @@ output:
   <tbody>
     <tr>
         <td>As part of the [Cornell Computing and Information Science MPS](https://infosci.cornell.edu/masters/mps) student curriculum, we worked on a semester-long client project. Our team of 4 was selected to work with Google’s Enterprise AI team. We showcase an application of Google's anomoly identification technique (MADI) to an e-commerce transaction dataset and build a UXR-based visualization dashboard for surfacing identified anomalous transactions that could be potential indicators of fraud.</td>
-        <td>UI Designer (data visualization expert) /Front-end Developer: my main role on the project included identifying and designing key visualizations that would be possible based on the output provided by MADI as well as identifying the best visualizations for the end user based on the user experience research conducted. My secondary role was part of the development team building out the front-end data visualization.</td>
+        <td>UI Designer (data visualization expert)/Front-end Developer: my main role on the project included identifying and designing key visualizations based on the user experience research conducted. My secondary role was part of the development team building out the front-end data visualization.</td>
         <td>
         Figma,HTML/CSS and Javascript (Materials UI, Highcharts, React)</td>
         </tr>
@@ -92,23 +92,24 @@ Based on the user research that my team members had conducted, another teammate 
 - **AUC-ROC**
 
   Finally, we move onto our last page, About MADI. The main graphs in this section are the AUC-ROC curves where we compare MADI’s main approaches: Negative Sampling-Neural Networks (NS-NN) and Negative Sampling-Random Forest on the left hand side with other anomaly detection approaches such as ISO and OC-SVM on the right. We chose to display these graphs on this page to show the user more information about MADI’s performance as an anomaly detection algorithm. These graphs are supplemented by text boxes explaining more about MADI, what an AUC-ROC curve is, as well as how MADI can be applied to the transaction fraud space to help users understand how this can be applied to their needs.
-  ###Development:
-  As part of the development team, we the following to create the front end of the platform: React, Highcharts, and Material UI. Specifically, I created the "Common Attributes" section using.
 
-  ###Delivery.
+**Low-Fidelity Wireframes**
 
-**Wireframes**
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FVBgBsfmK7KNbzoGfdC7X0p%2FMPS---Google%3Fnode-id%3D1%253A2%26scaling%3Dscale-down-width%26page-id%3D0%253A1" allowfullscreen></iframe>
 
-See below the Figma page that we used to create the mocks:
+**Mid-Fidelity Wireframes**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVBgBsfmK7KNbzoGfdC7X0p%2FMPS---Google%3Fnode-id%3D18%253A2" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FVBgBsfmK7KNbzoGfdC7X0p%2FMPS---Google%3Fnode-id%3D331%253A6765%26starting-point-node-id%3D331%253A6765%26scaling%3Dscale-down-width" allowfullscreen></iframe>
+
+###Development:
+As part of the development team, we the following to create the front end of the platform: React, Highcharts, and Material UI. Specifically, I created the "Common Attributes" section using.
+
+For the high-fidelity prototype, see it live by cliking below:
+
+<a target="_blank" href= "http://madi-google.herokuapp.com"> <button class = "button_madi"> Dashboard </button></a>
+
+###Delivery.
 
 **Final Presentation**
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTya8rr2FJ-isxv8vSmjEHnAfdS1StIJGhwG-7BL3SiBJRFKsqbyQMkfOZzHShpSZRmNdoRi7ZpwhOx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="400" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-**Prototyping**
-
-See below the final prototype that we created for the client
-
-<a target="_blank" href= "http://madi-google.herokuapp.com"> <button class = "button_madi"> Dashboard </button></a>
