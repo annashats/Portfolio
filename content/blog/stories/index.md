@@ -3,7 +3,7 @@ title: Stories of Solidarity
 date: "2019-05-07"
 thumbnail: ./Stories.png
 thumbnail2: ./Long_Stories.png
-description: Stories of Solidarity, is one response, among many, to the COVID-19 pandemic. The project seeks to archive and make visible the ways in which people and communities, particularly those who live and work in spaces of marginality and exclusion, leverage existing social institutions and create new ones by tending and building practices of care, mutual aid, and solidarity.
+description: Stories of Solidarity, is one response, among many, to the COVID-19 pandemic. The project seeks to archive and make visible the ways in which people and communities leverage existing social institutions and create new ones by tending and building practices of care, mutual aid, and solidarity.
 ---
 
 ### Project Overview

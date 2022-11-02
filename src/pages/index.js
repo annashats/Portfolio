@@ -28,10 +28,10 @@ const BlogIndex = ({ data }, location) => {
           </h2> */}
 
           <h2 className="page-head-title">
-            Hi, I'm Anna Shats. <br />
-            I'm a
+            Hi there! I'm Anna. <br />
+            I'm an
             <Typical
-              steps={[" UX/UI Designer", 2000, " Food Lover", 2000]}
+              steps={[" UX/UI Designer", 2000, " Aspiring Chef", 2000]}
               loop={Infinity}
               wrapper="b"
             />
