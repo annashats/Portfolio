@@ -24,7 +24,7 @@ of their potential future partners.
         </td>
         <td>
         
-Exploration and analysis of dataset, UX/UI Designer, and data visualization Front-end Developer
+Exploration and analysis of dataset, Dava Visualization Designer, and data visualization Front-end Developer
         </td>
         <td>
 Jupyter Notebook (Python),
