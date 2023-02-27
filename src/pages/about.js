@@ -45,10 +45,24 @@ const AboutPage = ({ data }, location) => {
           went out to eat, the love for cooking was instilled in me from a young
           age. Especially when I get to recreate dishes that I grew up with
           coming from Ukrainian and Israeli culture and ESPECIALLY when it’s for
-          family and friends. Check out my Instagram page for some recipes to
-          try out! I also enjoy being active, some of my favorite classes to
-          take are contemporary dancing and boxing classes.
+          family and friends. Check out my{" "}
+          <a
+            href="https://www.instagram.com/taimkitchen/reels/"
+            title="TaimKitchen"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Instagram page
+          </a>{" "}
+          for some recipes to try out! I also enjoy being active, some of my
+          favorite classes to take are contemporary dancing and boxing classes.
         </div>
+        <iframe
+          src="https://drive.google.com/file/d/1KdF_9QBmVN4gydTyrG47RwzYxUIX_IPC/preview"
+          width="640"
+          height="480"
+          allow="autoplay"
+        ></iframe>
       </article>
     </Layout>
   )
