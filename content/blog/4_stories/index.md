@@ -82,7 +82,7 @@ _Original_
 
 _Redesign_
 
-<img alt="FinalDesign" src="1.gif" />
+<img width="560" height="315" class = "stories_gif" alt="FinalDesign" src="1.gif" />
 
 See Figma prototype <a target="_blank" href= "https://www.figma.com/proto/5VR7LlcSd0foXUXx8kBDOS/Stories-of-Solidarity_Final?node-id=208%3A270&scaling=scale-down&page-id=202%3A57&starting-point-node-id=208%3A270"> here</a>
 
