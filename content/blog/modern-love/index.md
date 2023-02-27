@@ -3,7 +3,7 @@ title: Modern Love
 date: "2019-05-05"
 thumbnail: ./ModernLove.png
 thumbnail2: ./Long_ModernLove.png
-description: A data vizualization using a dataset on American dating from Pew Research Center
+description: TEST A data vizualization using a dataset on American dating from Pew Research Center
 ---
 
 ##Project Overview
