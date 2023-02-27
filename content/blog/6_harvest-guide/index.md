@@ -182,7 +182,7 @@ See below for the high fidelity Progressive Web Application:
 
 <!-- <a> <button class = "button_harvestguide" href= "https://harvest-guide-fb.herokuapp.com/" >Harvest Guide PWA</button></a> -->
 
-<img alt="FinalDesign" src="final.gif" />
+<img width="100%" alt="FinalDesign" src="final.gif" />
 
 See below to try it out yourself:
 
