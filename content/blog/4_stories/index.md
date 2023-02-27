@@ -98,4 +98,4 @@ You can find the high-fidelity prototype here which aligns with the original mid
 ###Reflection
 Reflecting back on the project, ideally we would have involved the users throughout the design process, I would have loved to conduct user research and usability testing with the users to create the best product possible, unfortunatly getting a set of users for this was a challenge due to COVID-19. Check out this panel that my team and I did on Stories of Solidarity where we reflect on the experience and what we would have done differently: https://aap.cornell.edu/news-events/stories-solidarity-covid-project-cornell
 
-<iframe width="100%" src="https://www.youtube.com/embed/QIwh6RWLLNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  width="560" height="315" src="https://www.youtube.com/embed/QIwh6RWLLNs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
