@@ -54,7 +54,7 @@ During this phase, we used Figma to design each of the components and interactio
 
 <!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCVwbVxCfBdIwrzb3GIv71%2FINFO4310-Final%3Fscaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D23%253A371%26node-id%3D23%253A840" allowfullscreen></iframe> -->
 
-<img alt="FinalDesign" src="final.gif" />
+<img width="100%" alt="FinalDesign" src="final.gif" />
 
 See Figma prototype <a target="_blank" href= "https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FyCVwbVxCfBdIwrzb3GIv71%2FINFO4310-Final%3Fscaling%3Dscale-down-width%26page-id%3D0%253A1%26starting-point-node-id%3D23%253A371%26node-id%3D23%253A840"> here</a>
 
