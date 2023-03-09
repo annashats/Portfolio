@@ -50,7 +50,7 @@ const Layout = props => {
                 LinkedIn
               </a>
               <a
-                href="https://drive.google.com/file/d/16YsGtEzalXyYR2oGyUuvfTW7tbejS511/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Q4tFPLtnB6cxJHpWG3tiWRqWDEjeb8Nd/view?usp=sharing"
                 title="Resume"
                 target="_blank"
                 rel="noopener noreferrer"
